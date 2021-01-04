@@ -82,7 +82,6 @@ class DecodeToNumpy(json.JSONDecoder):
             return range(value[0],value[-1])
         return obj
 
-
 def save(
     path: Union[str, Path], multitrack: "Multitrack", compressed: bool = True
 ):
