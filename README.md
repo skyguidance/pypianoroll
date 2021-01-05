@@ -1,10 +1,7 @@
 Pypianoroll
 ===========
 
-[![Travis](https://img.shields.io/travis/com/salu133445/pypianoroll)](https://travis-ci.com/salu133445/pypianoroll)
-[![Codecov](https://img.shields.io/codecov/c/github/salu133445/pypianoroll)](https://codecov.io/gh/salu133445/pypianoroll)
-[![GitHub license](https://img.shields.io/github/license/salu133445/pypianoroll)](https://github.com/salu133445/pypianoroll/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/v/release/salu133445/pypianoroll)](https://github.com/salu133445/pypianoroll/releases)
+A modified version of Pypianoroll, based on original 1.0.2 version. Support NumPy format JSON Dump/Read.
 
 
 Pypianoroll is an open source Python library for working with piano rolls. It provides essential tools for handling multitrack piano rolls, including efficient I/O as well as manipulation, visualization and evaluation tools.
